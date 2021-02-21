@@ -12,3 +12,5 @@ closeBtn.addEventListener('click', function(){
     modalOverlay.classList.remove('open-modal')
 });
 // when user clicks close-btn remove .open-modal from modal-overlay
+
+// when user clicks close-btn remove .open-modal from modal-overlay
